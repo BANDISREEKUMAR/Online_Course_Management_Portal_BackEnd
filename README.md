@@ -40,7 +40,7 @@ Authentication and authorization are implemented using **JWT tokens** for secure
 ---
 
 2. **Configure MySQL database**
-  Update `application.properties` with your database credentials:
+  ##Update `application.properties` with your database credentials:
   ```bash
   spring.datasource.url=jdbc:mysql://localhost:3306/online_course_portal
   spring.datasource.username=your_db_user
